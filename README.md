@@ -1,10 +1,10 @@
-# 🏥 Medical Disease Classification with ClinicalBERT & BioBERT
+# Medical Disease Classification with ClinicalBERT & BioBERT
 
 > NLP pipeline for automatic disease classification from clinical text narratives — M1 Data Science Project
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project builds an end-to-end NLP pipeline that:
 1. **Converts** a binary symptom dataset into realistic clinical narrative text
@@ -13,7 +13,7 @@ This project builds an end-to-end NLP pipeline that:
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 - **Source:** Disease and Symptoms Dataset (Medical Text Classification)
 - **Size:** 6,785 patient records × 377 symptoms
@@ -29,7 +29,7 @@ accompanied by depressive symptoms, palpitations."
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Step 1 — Data Preprocessing
 - Loading and binarizing the symptom dataset
@@ -110,7 +110,7 @@ jupyter notebook ProjetNLP_VF.ipynb
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 nlp-disease-classification/
@@ -120,20 +120,6 @@ nlp-disease-classification/
 └── README.md                # This file
 ```
 
----
-
-## Author
-
-**Amani HENCHIRI** — M1 Data Science Student  
-
----
-
-## License
-
-This project is licensed under the MIT License.
-# Medical Disease Classification with ClinicalBERT
-
-> NLP pipeline for automatic disease classification from clinical text narratives — M1 Data Science Project
 
 
 
