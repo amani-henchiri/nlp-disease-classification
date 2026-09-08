@@ -57,12 +57,18 @@ accompanied by depressive symptoms, palpitations."
 ---
 
 ## Key Results
-
+ClinicalBERT
 | Metric | Score |
 |--------|-------|
-| Weighted F1-score | *(run notebook to see)* |
-| Macro F1-score | *(run notebook to see)* |
-| Accuracy | *(run notebook to see)* |
+| Weighted F1-score | *88,55%* |
+| Macro F1-score | *92,9%* |
+| Accuracy | *93%* |
+BioBERT
+| Metric | Score |
+|--------|-------|
+| Weighted F1-score | *93%* |
+| Macro F1-score | *86,77%* |
+| Accuracy | *88,66%* |
 
 ---
 
